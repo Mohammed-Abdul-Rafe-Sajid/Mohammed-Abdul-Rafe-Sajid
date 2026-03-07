@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on diverse welfare projects.
 - 📫 How to reach me 
-- 😄 Pronouns: he/him
+
 
 <!---
 Mohammed-Abdul-Rafe-Sajid/Mohammed-Abdul-Rafe-Sajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
