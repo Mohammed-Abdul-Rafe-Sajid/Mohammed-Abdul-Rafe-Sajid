@@ -2,7 +2,6 @@
 - 👀 I’m interested in studying Technology and its impact on society.
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on diverse welfare projects.
-- 📫 How to reach me 
 
 
 <!---
